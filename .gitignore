@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# electron-builder's Two package.json Structure
+app/
+
+.cache-loader/
